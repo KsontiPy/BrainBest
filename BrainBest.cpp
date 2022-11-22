@@ -155,7 +155,7 @@ int main(int argc, char *argv[])
 		"#" == print mem[MP] as char
 		"@" == print mem[MP] as number
 		
-		Work width buffer:
+		Work with buffer:
 		
 		"{" == BUFF = mem[MP]
 		"}" == mem[MP] = BUFF
