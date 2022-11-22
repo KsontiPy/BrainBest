@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 	int MP = 0;
 	bool C = false;
 	
-	char code [] = "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#}>{---#>{++++#}>{#>{+++#";
+	char code [] = "";
 	
 	for (int IP = 0; IP < sizeof code - 1; IP++) {
 		
